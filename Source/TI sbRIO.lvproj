@@ -3329,7 +3329,7 @@ DirectoryIndex index.htm
 		<Item Name="Scale Tank Data.vi" Type="VI" URL="../SubVIs/Scale Tank Data.vi"/>
 		<Item Name="tank" Type="Web Service">
 			<Property Name="Bld_buildSpecName" Type="Str"></Property>
-			<Property Name="Bld_version.build" Type="Int">114</Property>
+			<Property Name="Bld_version.build" Type="Int">117</Property>
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
